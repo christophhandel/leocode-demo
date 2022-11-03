@@ -10,7 +10,7 @@ jobs:
     name: Build backend
     runs-on: ubuntu-latest
     env:
-      IMAGE_NAME: leodemo
+      IMAGE_NAME: leocode-demo
     defaults:
       run:
         working-directory: .
